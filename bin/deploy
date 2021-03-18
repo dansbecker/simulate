@@ -1,2 +1,0 @@
-gcloud functions deploy main --runtime python37 --trigger-http
-gcloud functions deploy drilldown --runtime python37 --trigger-http
